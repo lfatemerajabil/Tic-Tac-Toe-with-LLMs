@@ -6,9 +6,3 @@ Welcome to the AI Tic Tac Toe Solver! This project leverages the Llama 3 languag
 ### Features
 - Uses the Llama 3 language model to generate moves.
 - Judges the quality of moves with a custom function.
-
-### Authors
-- Mahdi Farzandway - [mahdifarzandway](https://github.com/mahfarpp)
-- Fateme Rajabi - [lfatemerajabil](https://github.com/lfatemerajabil)
-- Sheida Rastgoftar - [sheidarg88](https://github.com/sheidarg88)
-- Sina Arshad - [arrshad](https://github.com/arrshad)
